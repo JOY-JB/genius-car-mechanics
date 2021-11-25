@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "genius-car-mechanics"
-  }
+    "default": "genius-car-mechanics",
+    "n": "ema-john-authentication-214a0",
+    "yes": "genius-car-mechanics-29fcc"
+  },
+  "targets": {}
 }
